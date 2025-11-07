@@ -7,7 +7,7 @@ In particular, I wanted to use Word Embeddings models to get a first-hand glimps
 
 ## What You Will Find:
 
-- A Python notebook where I explain how I retrieved the texts I needed for my corpora and how I handled the preprocessing phase (**EL_FIN_notebook_1**). I personally would like to publicly thank [GitHub user Edward Ross](https://github.com/EdwardJRoss), whose [tutorial on how to download books from Project Gutenberg with Python](https://skeptric.com/gutenberg/) was fundamental to carry on my work.
-- Another Python notebook where the main diachronic semantic analysis is performed (**EL_FIN_notebook_2**). This notebook includes references to academic sources related to the domains of both Digital Humanities and "pure" Humanities, and a final Bibliography section where these are arranged.  
+- A Python Notebook where I explain how I retrieved the texts I needed for my corpora and how I handled the preprocessing phase (**EL_FIN_notebook_1**). I personally would like to publicly thank [GitHub user Edward Ross](https://github.com/EdwardJRoss), whose [tutorial on how to download books from Project Gutenberg with Python](https://skeptric.com/gutenberg/) was fundamental to carry on my work.
+- Another Python Notebook where the main diachronic semantic analysis is performed (**EL_FIN_notebook_2**). This notebook includes references to academic sources related to the domains of both Digital Humanities and "pure" Humanities, and a final Bibliography section where these are arranged.  
 
 **Please note that the documentation for both notebooks is, as of now, in Italian. I apologise to those that are unfamiliar with it —I will do my best to provide an English version soon!**  
